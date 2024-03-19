@@ -7,7 +7,6 @@ struct node {
     node* next;
 };
 
-
 class singlelinkedlist {
 private:
     node* head;
